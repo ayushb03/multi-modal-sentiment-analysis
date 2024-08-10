@@ -1,1 +1,1 @@
-# research-multi-modal-sentiment-analyst
+# research-multi-modal-sentiment-analysis
