@@ -7,3 +7,8 @@
     - **Description:** Text(video subtitles), Images(video frames), audio.
     - **Labeling:** Positive, Negative, Neutral.
     - **Folders** CMU-MOSI, CMU-MOSEI, CH-SIMS, CH-SIMS v2
+
+## text_classification
+    - **branch:** text_classification 
+    - create env & install the dependencies
+    - `python main.py && test.py`
