@@ -4,11 +4,21 @@
 
 1. **MSA-DATASET**
     - **Source:** [Link to dataset](https://drive.google.com/drive/folders/1A2S4pqCHryGmiqnNSPLv7rEg63WvjCSk)
-    - **Description:** Text(video subtitles), Images(video frames), audio.
+    - **Description:** Text (video subtitles), Images (video frames), audio.
     - **Labeling:** Positive, Negative, Neutral.
-    - **Folders** CMU-MOSI, CMU-MOSEI, CH-SIMS, CH-SIMS v2
+    - **Folders:**
+        - CMU-MOSI
+        - CMU-MOSEI
+        - CH-SIMS
+        - CH-SIMS v2
 
-## text_classification
-    - **branch:** text_classification 
-    - create env & install the dependencies
-    - `python main.py && test.py`
+## Text Classification
+
+- **Branch:** `text_classification`
+- **Setup:**
+    1. Create environment & install dependencies.
+    2. Run the following commands:
+        ```bash
+        cd text_classification
+        python main.py && python test.py
+        ```
